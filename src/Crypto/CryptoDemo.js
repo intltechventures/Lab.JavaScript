@@ -12,8 +12,14 @@ console.info(crypto.randomBytes(12).toString('hex'));
 // We can compute the risk of collision by the following formula:
 // 
 // p = (max number of IDs assumed to be created)^2 / 2^(bits of an ID + 1)
-// 
+//  
 // Let us assume 10 billion IDs as our maximum upper limit.
 // Thus, for a 12 byte ID - converted to a 24 character string, we have
 //
 // p = 10,000,000,000^2 / 2^(192 + 1) = 7.96546 * 10^(-45)
+//
+// Useful References
+// https://en.wikipedia.org/wiki/Cryptographic_hash_function
+// https://www.strchr.com/hash_functions 
+// https://en.wikipedia.org/wiki/Avalanche_effect
+// http://preshing.com/20110504/hash-collision-probabilities/
