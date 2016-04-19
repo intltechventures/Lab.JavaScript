@@ -6,6 +6,7 @@ Important JavaScript Libraries
 * https://facebook.github.io/react/
 	* https://github.com/facebook/react
 * http://jquery.com/
+	* https://github.com/jquery/jquery
 * http://underscorejs.org/
 * https://lodash.com/
 
