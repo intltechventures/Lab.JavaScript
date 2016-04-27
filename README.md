@@ -32,4 +32,5 @@ Interesting github Javascript-related projects
 * https://github.com/mperham/sidekiq
 * https://github.com/cst/cst
 * https://github.com/jscs-dev/node-jscs  - now deprecated, [development team shifted to focus on supporting ESlint] (http://eslint.org/blog/2016/04/welcoming-jscs-to-eslint) 
-* https://github.com/github/fetch  
+* https://github.com/github/fetch
+* https://github.com/pmed/v8pp
