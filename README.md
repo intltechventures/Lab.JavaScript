@@ -27,6 +27,10 @@ Tutorials
 * http://stackoverflow.com/questions/tagged/javascript
 
 
+JavaScrypt Style Guides
+* https://github.com/airbnb/javascript
+
+
 Interesting JavaScript Related Articles
 * https://davidwalsh.name/fetch
 
