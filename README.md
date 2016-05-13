@@ -9,6 +9,9 @@ Important JavaScript Libraries
 	* https://github.com/jquery/jquery
 * http://underscorejs.org/
 * https://lodash.com/
+* http://p5js.org/
+	* http://p5js.org/libraries/
+
 
 JavaScript References
 * http://www.ecma-international.org/
@@ -44,4 +47,4 @@ Interesting github Javascript-related projects
 * https://github.com/github/fetch
 * https://github.com/pmed/v8pp
 * https://github.com/airbnb/trebuchet
-
+* https://github.com/chenka/node-slackr
