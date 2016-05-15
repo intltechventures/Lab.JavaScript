@@ -48,3 +48,8 @@ Interesting github Javascript-related projects
 * https://github.com/pmed/v8pp
 * https://github.com/airbnb/trebuchet
 * https://github.com/chenka/node-slackr
+* https://github.com/facebook/flow
+
+
+Useful JavaScript Libraries
+* https://github.com/findhit/util
