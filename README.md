@@ -13,6 +13,13 @@ Important JavaScript Libraries
 	* http://p5js.org/libraries/
 
 
+JavaScript UI Libraries to Evaluate...
+* http://vuejs.org/
+  * https://twitter.com/vuejs
+  * https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
+
+
+
 JavaScript References
 * http://www.ecma-international.org/
 	* http://www.ecma-international.org/news/Publication%20of%20ECMA-262%206th%20edition.htm
