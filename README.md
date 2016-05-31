@@ -44,7 +44,7 @@ JavaScrypt Style Guides
 
 Interesting JavaScript Related Articles
 * https://davidwalsh.name/fetch
-
+* [Getting Started with ES6 (ES2015) and Babel] (https://davidwalsh.name/es2015-babel)
 
 
 Interesting github Javascript-related projects
