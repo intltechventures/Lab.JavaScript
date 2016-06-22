@@ -59,5 +59,9 @@ Interesting github Javascript-related projects
 * https://github.com/facebook/flow
 
 
+Interesting github accounts
+* https://github.com/spicydonuts
+* https://github.com/kentcdodds
+
 Useful JavaScript Libraries
 * https://github.com/findhit/util
