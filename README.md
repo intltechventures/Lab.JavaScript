@@ -66,3 +66,4 @@ Interesting github accounts
 Useful JavaScript Libraries/Frameworks
 * https://github.com/findhit/util
 * https://wakanda.github.io/
+  * https://wakexperienceblog.wordpress.com/2016/06/28/use-aurelia-with-a-wakanda-backend/
