@@ -58,7 +58,7 @@ Interesting github Javascript-related projects
 * https://github.com/chenka/node-slackr
 * https://github.com/facebook/flow
 * https://github.com/cujojs/most
-
+* https://github.com/phoenixframework/phoenix
 
 Interesting github accounts
 * https://github.com/spicydonuts
