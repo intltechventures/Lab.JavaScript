@@ -63,6 +63,8 @@ Interesting github Javascript-related projects
 Interesting github accounts
 * https://github.com/spicydonuts
 * https://github.com/kentcdodds
+* https://github.com/chrisui
+
 
 Useful JavaScript Libraries/Frameworks
 * https://github.com/findhit/util
