@@ -57,6 +57,7 @@ Interesting github Javascript-related projects
 * https://github.com/airbnb/trebuchet
 * https://github.com/chenka/node-slackr
 * https://github.com/facebook/flow
+* https://github.com/cujojs/most
 
 
 Interesting github accounts
