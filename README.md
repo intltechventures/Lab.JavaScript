@@ -2,6 +2,10 @@
 A repository that serves as my lab for exploring the JavaScript language
 
 
+JavaScript IDEs
+* https://www.jetbrains.com/webstorm/
+
+
 Important JavaScript Libraries
 * https://facebook.github.io/react/
 	* https://github.com/facebook/react
@@ -64,6 +68,15 @@ Interesting github accounts
 * https://github.com/spicydonuts
 * https://github.com/kentcdodds
 * https://github.com/chrisui
+
+
+Interesting JavaScript People
+* https://twitter.com/addyosmani
+* https://twitter.com/ebidel
+* https://twitter.com/_developit
+* https://twitter.com/kentcdodds
+
+
 
 
 Useful JavaScript Libraries/Frameworks
