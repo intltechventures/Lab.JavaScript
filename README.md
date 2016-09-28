@@ -86,3 +86,7 @@ Useful JavaScript Libraries/Frameworks
 * http://aurelia.io/
 
 
+JavaScript Animation Tools
+* https://threejs.org/
+* https://github.com/christinecha/choreographer-js
+
