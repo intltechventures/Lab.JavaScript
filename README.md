@@ -86,7 +86,10 @@ Useful JavaScript Libraries/Frameworks
 * http://aurelia.io/
 
 
-JavaScript Animation Tools
+JavaScript Graphics / Animation Tools
 * https://threejs.org/
 * https://github.com/christinecha/choreographer-js
+* http://dmitrybaranovskiy.github.io/raphael/
+* https://bonsaijs.org/
+* http://www.graphicsjs.org/
 
