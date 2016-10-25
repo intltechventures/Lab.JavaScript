@@ -2,9 +2,9 @@
 A repository that serves as my lab for exploring the JavaScript language
 
 
-JavaScript IDEs
+JavaScript IDEs & Tools
 * https://www.jetbrains.com/webstorm/
-
+* https://developers.google.com/web/tools/chrome-devtools/
 
 Important JavaScript Libraries
 * https://facebook.github.io/react/
