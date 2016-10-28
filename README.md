@@ -40,6 +40,7 @@ JavaScript References
 Tutorials
 * http://www.w3schools.com/js/
 * http://stackoverflow.com/questions/tagged/javascript
+* https://github.com/mjavascript/practical-es6
 
 
 JavaScrypt Style Guides
