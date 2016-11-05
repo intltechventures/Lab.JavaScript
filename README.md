@@ -64,11 +64,19 @@ Interesting github Javascript-related projects
 * https://github.com/facebook/flow
 * https://github.com/cujojs/most
 * https://github.com/phoenixframework/phoenix
+* https://github.com/SonarSource/sonar-javascript 
+* http://jnordberg.github.io/gif.js/
+* https://github.com/paulirish/memory-stats.js
+* https://github.com/juliandescottes/piskel
+* https://github.com/baconjs/bacon.js
+* https://github.com/ariatemplates-plugins/calendarwidget
+
 
 Interesting github accounts
 * https://github.com/spicydonuts
 * https://github.com/kentcdodds
 * https://github.com/chrisui
+* https://github.com/juliandescottes
 
 
 Interesting JavaScript People
