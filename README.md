@@ -71,6 +71,9 @@ Interesting github Javascript-related projects
 * https://github.com/baconjs/bacon.js
 * https://github.com/ariatemplates-plugins/calendarwidget
 
+Other Interesting JavaScript Resources
+* http://dygraphs.com/
+
 
 Interesting github accounts
 * https://github.com/spicydonuts
