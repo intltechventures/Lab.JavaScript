@@ -15,7 +15,32 @@ Important JavaScript Libraries
 * https://lodash.com/
 * http://p5js.org/
 	* http://p5js.org/libraries/
-
+* http://expressjs.com/
+  * https://github.com/expressjs/express
+* http://koajs.com/
+  * https://github.com/koajs/koa
+* https://www.totaljs.com/
+  * https://github.com/totaljs/framework
+* http://derbyjs.com/
+  * https://github.com/derbyjs/derby
+* https://www.meteor.com/
+  * https://github.com/meteor/meteor
+* http://restify.com/
+  * https://github.com/restify/node-restify
+* https://hapijs.com/
+  * https://github.com/hapijs/hapi
+* http://sailsjs.com/
+  * https://github.com/balderdashy/sails
+* https://strongloop.com/
+  * https://github.com/strongloop/loopback
+* https://www.actionherojs.com/
+  * https://github.com/evantahler/actionhero
+* http://keystonejs.com/
+  * https://github.com/keystonejs/keystone
+* http://docs.sequelizejs.com/en/v3/
+  * https://github.com/sequelize/sequelize
+* http://mean.io/
+  
 
 JavaScript UI Libraries to Evaluate...
 * http://vuejs.org/
