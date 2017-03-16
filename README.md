@@ -123,6 +123,8 @@ Useful JavaScript Libraries/Frameworks
 * https://wakanda.github.io/
   * https://wakexperienceblog.wordpress.com/2016/06/28/use-aurelia-with-a-wakanda-backend/
 * http://aurelia.io/
+* https://zeit.co/api
+
 
 
 JavaScript Graphics / Animation Tools
