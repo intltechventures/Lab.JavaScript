@@ -50,6 +50,8 @@ JavaScript UI Libraries to Evaluate...
   * https://github.com/aframevr/aframe 
 * http://try.buildwinjs.com/
   * http://try.buildwinjs.com/download/GetWinJS/
+* https://preactjs.com/ 
+
 
 
 JavaScript References
