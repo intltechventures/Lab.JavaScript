@@ -99,6 +99,9 @@ Interesting github Javascript-related projects
 * https://github.com/juliandescottes/piskel
 * https://github.com/baconjs/bacon.js
 * https://github.com/ariatemplates-plugins/calendarwidget
+* https://github.com/markert/fili.js
+
+
 
 Other Interesting JavaScript Resources
 * http://dygraphs.com/
