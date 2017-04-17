@@ -136,3 +136,8 @@ JavaScript Graphics / Animation Tools
 * https://bonsaijs.org/
 * http://www.graphicsjs.org/
 
+
+
+Interesting Articles
+* 2017
+  * https://www.infoq.com/news/2017/04/going-typescript-slack
