@@ -4,3 +4,4 @@ Interesting NPM Resources
   * http://brunch.io/
   * https://github.com/brunch/brunch
 * https://www.npmjs.com/package/bn.js
+* https://bundlephobia.com/

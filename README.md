@@ -105,6 +105,7 @@ Interesting github Javascript-related projects
 
 Other Interesting JavaScript Resources
 * http://dygraphs.com/
+* https://bundlephobia.com/
 
 
 Interesting github accounts
