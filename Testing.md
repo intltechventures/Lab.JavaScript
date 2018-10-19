@@ -3,7 +3,7 @@ JavaScript Testing Resources
 (work-in-progress...assemling a list, will add commentary as I expand my evaluation)
 
 
-\#Selenium
+#Selenium
 * https://www.seleniumhq.org/
   * http://www.webdriverjs.com/ 
     * https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs
@@ -12,7 +12,7 @@ JavaScript Testing Resources
 
 
 
-\#NightwatchJS
+#NightwatchJS
 * http://nightwatchjs.org/
   * "Write End-to-End tests in Node.js quickly and effortlessly that run against a Selenium/WebDriver server."
   * "Nightwatch.js is an easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites. It uses the powerful W3C WebDriver API to perform commands and assertions on DOM elements."
@@ -23,7 +23,7 @@ which aims to simplify much further the way development teams write,
 manage and run their automated tests."
 
 
-\#WebDdriverJS
+#WebDdriverJS
 * http://webdriver.io/
   * WebDriver bindings for Node.js
   * "WebdriverIO lets you control a browser or a mobile application with just a few lines of code. Your test code will look simple, concise and easy to read. The integrated test runner let you write asynchronous commands in a synchronous way so that you don’t need to care about how to handle a Promise to avoid racing conditions. Additionally it takes away all the cumbersome setup work and manages the Selenium session for you."
