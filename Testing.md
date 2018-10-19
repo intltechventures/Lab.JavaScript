@@ -1,18 +1,18 @@
 JavaScript Testing Resources
 ====    
-(work-in-progress...)
+(work-in-progress...assemling a list, will add commentary as I expand my evaluation)
 
 
-Selenium
+#Selenium
 * https://www.seleniumhq.org/
   * http://www.webdriverjs.com/ 
     * https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs
       * "he WebDriverJS library uses a promise manager to ease the pain of working with a purely asynchronous API. Rather than writing a long chain of promises, the promise manager allows you to write code as if WebDriverJS had a synchronous, blocking API (like all of the other Selenium language bindings)"
-* 
+ 
 
 
 
-NightwatchJS
+#NightwatchJS
 * http://nightwatchjs.org/
   * "Write End-to-End tests in Node.js quickly and effortlessly that run against a Selenium/WebDriver server."
   * "Nightwatch.js is an easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites. It uses the powerful W3C WebDriver API to perform commands and assertions on DOM elements."
@@ -23,7 +23,7 @@ which aims to simplify much further the way development teams write,
 manage and run their automated tests."
 
 
-WebDdriverJS
+#WebDdriverJS
 * http://webdriver.io/
   * WebDriver bindings for Node.js
   * "WebdriverIO lets you control a browser or a mobile application with just a few lines of code. Your test code will look simple, concise and easy to read. The integrated test runner let you write asynchronous commands in a synchronous way so that you don’t need to care about how to handle a Promise to avoid racing conditions. Additionally it takes away all the cumbersome setup work and manages the Selenium session for you."
@@ -32,20 +32,20 @@ WebDdriverJS
 * https://en.wikipedia.org/wiki/Selenium_(software)
   * 
 
-Angular Testing
+#Angular Testing
 * https://www.protractortest.org
   * https://protractor.angular.io/
   * https://github.com/angular/protractor
 
 
-Grunt 
+#Grunt 
 * https://gruntjs.com/
 * https://en.wikipedia.org/wiki/Grunt_(software)
   * Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting. It uses a command-line interface to run custom tasks defined in a file (known as a Gruntfile).
   * As of September 2016, there were more than 5,000 plugins available in the Grunt ecosystem
 
 
-JasmineJS
+#JasmineJS
 * https://jasmine.github.io/
   * "Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests."
 * https://github.com/jasmine/jasmine
@@ -57,7 +57,7 @@ JasmineJS
   * https://devhints.io/jasmine
 
 
-MochaJS
+#MochaJS
 * https://mochajs.org/
   * "Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases"
 * https://github.com/mochajs/mocha
