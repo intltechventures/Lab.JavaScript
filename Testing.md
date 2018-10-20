@@ -10,14 +10,14 @@ JavaScript Testing Resources
 * https://github.com/SeleniumHQ
 
 
-* https://www.seleniumhq.org/projects/webdriver/
-  * "Driving a browser natively as a user would either locally or on a remote machine using the Selenium Server it marks a leap forward in terms of browser automation."
-  * WebDriver is the name of the key interface against which tests should be written in Java, the implementing classes one should use are listed as below: 
+* http://www.webdriverjs.com/webdriverjs/
+  * https://www.seleniumhq.org/projects/webdriver/
+    * "Driving a browser natively as a user would either locally or on a remote machine using the Selenium Server it marks a leap forward in terms of browser automation."
+    * WebDriver is the name of the key interface against which tests should be written in Java, the implementing classes one should use are listed as below: 
     * ```ChromeDriver, EventFiringWebDriver, FirefoxDriver, HtmlUnitDriver, InternetExplorerDriver, PhantomJSDriver, RemoteWebDriver, SafariDriver```
-    * https://www.seleniumhq.org/about/platforms.jsp#programming-languages
-      * http://nunit.org/
-    * https://www.seleniumhq.org/about/platforms.jsp#testing-frameworks
-  * http://www.webdriverjs.com/ 
+  * https://www.seleniumhq.org/about/platforms.jsp#programming-languages
+    * http://nunit.org/
+  * https://www.seleniumhq.org/about/platforms.jsp#testing-frameworks
   * https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs
     * "create robust, browser-based regression automation suites and tests"
     * "scale and distribute scripts across many environments"
