@@ -3,7 +3,7 @@ JavaScript Testing Resources
 (work-in-progress...assemling a list, will add commentary as I expand my evaluation)
 
 
-#Selenium
+# Selenium
 * https://www.seleniumhq.com/
 * https://www.seleniumhq.org/
   * "Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well."
@@ -38,7 +38,7 @@ JavaScript Testing Resources
 
 
 
-#NightwatchJS
+# NightwatchJS
 * http://nightwatchjs.org/
   * "Write End-to-End tests in Node.js quickly and effortlessly that run against a Selenium/WebDriver server."
   * "Nightwatch.js is an easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites. It uses the powerful W3C WebDriver API to perform commands and assertions on DOM elements."
@@ -49,7 +49,7 @@ which aims to simplify much further the way development teams write,
 manage and run their automated tests."
 
 
-#WebDdriverJS
+# WebDdriverJS
 * http://webdriver.io/
   * WebDriver bindings for Node.js
   * "WebdriverIO lets you control a browser or a mobile application with just a few lines of code. Your test code will look simple, concise and easy to read. The integrated test runner let you write asynchronous commands in a synchronous way so that you don’t need to care about how to handle a Promise to avoid racing conditions. Additionally it takes away all the cumbersome setup work and manages the Selenium session for you."
@@ -58,7 +58,7 @@ manage and run their automated tests."
 * https://en.wikipedia.org/wiki/Selenium_(software)
    
 
-# Angular Testing
+# Protractor (Angular Testing)
 * https://www.protractortest.org
   * E2E test framework for Angular apps 
   * https://www.protractortest.org/#/tutorial
@@ -70,14 +70,15 @@ manage and run their automated tests."
     * "Protractor works with AngularJS versions greater than 1.0.6/1.1.4, and is compatible with Angular applications. ```Note that for Angular apps, the binding and model locators are not supported. We recommend using by.css.```"
 
 
-#Grunt 
+
+# Grunt 
 * https://gruntjs.com/
 * https://en.wikipedia.org/wiki/Grunt_(software)
   * Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting. It uses a command-line interface to run custom tasks defined in a file (known as a Gruntfile).
   * As of September 2016, there were more than 5,000 plugins available in the Grunt ecosystem
 
 
-#JasmineJS
+# JasmineJS
 * https://jasmine.github.io/
   * "Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests."
 * https://github.com/jasmine/jasmine
@@ -89,7 +90,7 @@ manage and run their automated tests."
   * https://devhints.io/jasmine
 
 
-#MochaJS
+# MochaJS
 * https://mochajs.org/
   * "Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases"
 * https://github.com/mochajs/mocha
@@ -97,7 +98,7 @@ manage and run their automated tests."
   * "Mocha is a JavaScript test framework for Node.js programs, featuring browser support, asynchronous testing, test coverage reports, and use of any assertion library."
 
 
-#Storybook
+# Storybook
 * https://storybook.js.org/
   * Storybook is a popular UI component development tool for React, Vue, and Angular. It helps you develop and design UI components outside your app in an isolated environment.
   * Professional developers at Airbnb, Dropbox, and Lonely Planet use Storybook to build durable documented UIs faster.
@@ -126,7 +127,7 @@ manage and run their automated tests."
   * [Announcing Storybook 3.4, Polymer, Image/Vue/Angular Storyshots, Multi-Hierarchy, & more!](https://medium.com/storybookjs/announcing-storybook-3-4-db4d1341dedd)
 
 
-#Enzyme
+# Enzyme
 * JavaScript Testing utilities for React 
 * https://airbnb.io/enzyme/
   * Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
