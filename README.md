@@ -1,12 +1,13 @@
 # Lab.JavaScript
+====
 A repository that serves as my lab for exploring the JavaScript language
 
 
-JavaScript IDEs & Tools
+### JavaScript IDEs & Tools
 * https://www.jetbrains.com/webstorm/
 * https://developers.google.com/web/tools/chrome-devtools/
 
-Important JavaScript Libraries
+### Important JavaScript Libraries
 * https://facebook.github.io/react/
 	* https://github.com/facebook/react
 * http://jquery.com/
@@ -42,7 +43,7 @@ Important JavaScript Libraries
 * http://mean.io/
   
 
-JavaScript UI Libraries to Evaluate...
+### JavaScript UI Libraries to Evaluate...
 * http://vuejs.org/
   * https://twitter.com/vuejs
   * https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
@@ -54,7 +55,7 @@ JavaScript UI Libraries to Evaluate...
 
 
 
-JavaScript References
+### JavaScript References
 * http://www.ecma-international.org/
 	* http://www.ecma-international.org/news/Publication%20of%20ECMA-262%206th%20edition.htm
 
@@ -66,22 +67,23 @@ JavaScript References
 * [Microsoft Developer Network > JavaScript Language Reference] (https://msdn.microsoft.com/en-us/library/d1et7k7c%28v=vs.94%29.aspx)
 * 
 
-Tutorials
+### Tutorials
 * http://www.w3schools.com/js/
 * http://stackoverflow.com/questions/tagged/javascript
 * https://github.com/mjavascript/practical-es6
 * http://codepen.io/
 
-JavaScrypt Style Guides
+### JavaScrypt Style Guides
 * https://github.com/airbnb/javascript
+* https://google.github.io/styleguide/jsguide.html
 
 
-Interesting JavaScript Related Articles
+### Interesting JavaScript Related Articles
 * https://davidwalsh.name/fetch
 * [Getting Started with ES6 (ES2015) and Babel] (https://davidwalsh.name/es2015-babel)
 
 
-Interesting github Javascript-related projects
+### Interesting github Javascript-related projects
 * https://github.com/broofa/node-uuid
 * https://github.com/mperham/sidekiq
 * https://github.com/cst/cst
@@ -103,19 +105,19 @@ Interesting github Javascript-related projects
 
 
 
-Other Interesting JavaScript Resources
+### Other Interesting JavaScript Resources
 * http://dygraphs.com/
 * https://bundlephobia.com/
 
 
-Interesting github accounts
+### Interesting github accounts
 * https://github.com/spicydonuts
 * https://github.com/kentcdodds
 * https://github.com/chrisui
 * https://github.com/juliandescottes
 
 
-Interesting JavaScript People
+### Interesting JavaScript People
 * https://twitter.com/addyosmani
 * https://twitter.com/ebidel
 * https://twitter.com/_developit
@@ -124,7 +126,7 @@ Interesting JavaScript People
 
 
 
-Useful JavaScript Libraries/Frameworks
+### Useful JavaScript Libraries/Frameworks
 * https://github.com/findhit/util
 * https://wakanda.github.io/
   * https://wakexperienceblog.wordpress.com/2016/06/28/use-aurelia-with-a-wakanda-backend/
@@ -133,7 +135,7 @@ Useful JavaScript Libraries/Frameworks
 
 
 
-JavaScript Graphics / Animation Tools
+### JavaScript Graphics / Animation Tools
 * https://threejs.org/
 * https://github.com/christinecha/choreographer-js
 * http://dmitrybaranovskiy.github.io/raphael/
@@ -142,6 +144,9 @@ JavaScript Graphics / Animation Tools
 
 
 
-Interesting Articles
+### Interesting Articles
 * 2017
   * https://www.infoq.com/news/2017/04/going-typescript-slack
+
+
+
