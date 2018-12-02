@@ -110,6 +110,8 @@ Progressive Web Appplications (PWAs)
   * https://blog.mozilla.org/firefox/progressive-web-apps-whats-big-deal/
   * https://hacks.mozilla.org/2018/05/progressive-web-apps-core-guides-on-mdn-web-docs/
   * https://www.androidpolice.com/2018/07/26/facebook-testing-proper-progressive-web-app-mobile-website/
+  * Smashting Magazine
+    * https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/
 * 2017
   * DZone
     * https://dzone.com/articles/building-progressive-web-applications-pwa-with-vis
