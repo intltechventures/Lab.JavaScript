@@ -2,6 +2,10 @@
 Vue.js Examples/Demonstrations/Exploration
 ====
 
+### References
+* https://vuejs.org/v2/guide/
+
+
 ### Development Library
 ```
 <!-- development version, includes helpful console warnings -->
@@ -15,4 +19,13 @@ Vue.js Examples/Demonstrations/Exploration
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>a
 ```
 
+### Tutorial Articles
 
+
+
+### Video Tutorials
+
+
+
+### Examples/Demos/Exploration
+* Vue.Demo-000.html		- Simple "Hello Vue" example"
