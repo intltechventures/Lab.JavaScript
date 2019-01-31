@@ -29,3 +29,5 @@ Vue.js Examples/Demonstrations/Exploration
 
 ### Examples/Demos/Exploration
 * [Vue.Demo-000.html](Vue.Demo-000.html)		- Simple "Hello Vue" example
+  * [intltechventures.github.io/Lab.JavaScript/src/Vue/Vue.Demo-000.html](Launch in Browser)
+
