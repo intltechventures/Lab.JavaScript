@@ -28,8 +28,10 @@ Vue.js Examples/Demonstrations/Exploration
 
 
 ### Examples/Demos/Exploration
-* [Vue.Demo-000.html](Vue.Demo-000.html)		- Simple "Hello Vue" example
+* [Vue.Demo-000.html](Vue.Demo-000.html)		- Simple "Hello Vue" app example
   * [Launch in Browser](https://intltechventures.github.io/Lab.JavaScript/src/Vue/Vue.Demo-000.html)
+* [Vue.Demo-001.html](Vue.Demo-001.html)        - Simple bind to title example
+  * [Launch in Browser](https://intltechventures.github.io/Lab.JavaScript/src/Vue/Vue.Demo-001.html)
 
 
 
