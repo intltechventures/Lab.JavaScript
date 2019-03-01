@@ -13,6 +13,18 @@ JSON Resources
   * [RFC-7159 The JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc7159/)
 
 
+### ECMA Refeences
+* [Standard ECMA-404 The JSON Data Interchange Syntax, 2nd edition (December 2017)](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
+
+
+
+### W3C Referneces
+* EXI for JSON (EXI4JSON)
+  * https://www.w3.org/TR/exi-for-json/
+    * "The EXI format is a compact representation that simultaneously optimizes performance and the utilization of computational resources. The EXI format was designed to support XML representation. With a relatively small set of transformations it may also be used for JSON, a popular format for exchange of structured data on the Web."
+    * "This document describes how the [```Efficient XML Interchange (EXI)``` Format 1.0 (Second Edition)] specification can be used to represent JSON data efficiently in terms of message size and processing. "
+    * "The EXI for JSON approach is to equivalently convert any well-formed JSON structures to XML event streams "
+
 
 
 
@@ -20,6 +32,8 @@ JSON Resources
 * Working with JSON
   * https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
     "JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications (e.g., sending some data from the server to the client, so it can be displayed on a web page, or vice versa). You'll come across it quite often, so in this article we give you all you need to work with JSON using JavaScript, including parsing JSON so you can access data within it, and creating JSON."
+
+* https://www.w3schools.com/js/js_json_intro.asp
 
 
 
@@ -34,12 +48,6 @@ JSON Resources
 * https://github.com/mafintosh/json-markup
   * "Prettyprint JSON to HTML"
 
-* https://github.com/epoberezkin/ajv
-  * "The fastest JSON Schema Validator. Supports draft-04/06/07"
-  * "Ajv version 6.0.0 that supports draft-07 is released. It may require either migrating your schemas or updating your code (to continue using draft-04 and v5 schemas, draft-06 schemas will be supported without changes)."
-  * https://github.com/ebdrup/json-schema-benchmark/blob/master/README.md#performance
-  * https://ajv.js.org
-  
 
 
 ### Chrome Plugin
@@ -50,3 +58,10 @@ JSON Resources
   * "this extension displays JSON text compliant with [rfc 4627](http://www.ietf.org/rfc/rfc4627.txt)"
   * "[JSONP](http://en.wikipedia.org/wiki/JSON#JSONP) is supported"
 
+
+
+### JSON Related Articles
+* W3C Blog
+  * 2016
+    * [Efficient representation for Web formats](https://www.w3.org/blog/2016/11/efficient-representation-for-web-formats/)
+      * "JavaScript Object Notation (JSON) exchange can be more efficient by applying EXI for JSON."
