@@ -7,6 +7,8 @@ A repository that serves as my lab for exploring the JavaScript language
 * https://www.jetbrains.com/webstorm/
 * https://developers.google.com/web/tools/chrome-devtools/
 
+
+
 ### Important JavaScript Libraries
 * https://facebook.github.io/react/
 	* https://github.com/facebook/react
@@ -43,6 +45,7 @@ A repository that serves as my lab for exploring the JavaScript language
 * http://mean.io/
   
 
+
 ### JavaScript UI Libraries to Evaluate...
 * http://vuejs.org/
   * https://twitter.com/vuejs
@@ -67,20 +70,26 @@ A repository that serves as my lab for exploring the JavaScript language
 * [Microsoft Developer Network > JavaScript Language Reference] (https://msdn.microsoft.com/en-us/library/d1et7k7c%28v=vs.94%29.aspx)
 * 
 
+
+
 ### Tutorials
 * http://www.w3schools.com/js/
 * http://stackoverflow.com/questions/tagged/javascript
 * https://github.com/mjavascript/practical-es6
 * http://codepen.io/
 
+
+
 ### JavaScrypt Style Guides
 * https://github.com/airbnb/javascript
 * https://google.github.io/styleguide/jsguide.html
 
 
+
 ### Interesting JavaScript Related Articles
 * https://davidwalsh.name/fetch
 * [Getting Started with ES6 (ES2015) and Babel] (https://davidwalsh.name/es2015-babel)
+
 
 
 ### Interesting github Javascript-related projects
@@ -125,7 +134,6 @@ A repository that serves as my lab for exploring the JavaScript language
 
 
 
-
 ### Useful JavaScript Libraries/Frameworks
 * https://github.com/findhit/util
 * https://wakanda.github.io/
@@ -145,6 +153,10 @@ A repository that serves as my lab for exploring the JavaScript language
 
 
 ### Interesting Articles
+* 2019 
+
+* 2018 
+
 * 2017
   * https://www.infoq.com/news/2017/04/going-typescript-slack
 
