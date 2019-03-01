@@ -26,6 +26,8 @@ JSON Resources
     * "The EXI for JSON approach is to equivalently convert any well-formed JSON structures to XML event streams "
 
 
+### Google Resources
+* https://google.github.io/styleguide/jsoncstyleguide.xml
 
 
 ### Tutorials
