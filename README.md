@@ -77,6 +77,7 @@ A repository that serves as my lab for exploring the JavaScript language
 * http://stackoverflow.com/questions/tagged/javascript
 * https://github.com/mjavascript/practical-es6
 * http://codepen.io/
+* https://javascript.info/
 
 
 
