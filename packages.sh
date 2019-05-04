@@ -12,3 +12,8 @@ npm install -g eslint
 npm install -g ajv
 npm install -g ajv-cli
 
+
+# npm install -g bower     - deprecated, no longer recommended...
+npm install -g webpack
+npm install -g grunt 
+
