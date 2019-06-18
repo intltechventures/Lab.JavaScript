@@ -38,3 +38,10 @@ npm install -g mssql
 # https://www.tutorialsteacher.com/nodejs/access-sql-server-in-nodejs
 # https://www.npmjs.com/package/mssql
 
+
+
+# json-server
+# Get a full fake REST API with zero coding in less than 30 seconds
+# https://github.com/typicode/json-server
+npm install -g json-server
+
