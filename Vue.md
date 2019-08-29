@@ -111,6 +111,8 @@
   
 - https://vuejs.org/v2/examples/
 
+- https://vue-community.org/guide/
+
 - https://www.vuemastery.com/courses/
   + https://www.vuemastery.com/courses/intro-to-vue-js/list-rendering/
 
