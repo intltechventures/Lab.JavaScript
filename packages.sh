@@ -31,6 +31,10 @@ npm install -g axios
 npm install -g tedious 
 # https://tediousjs.github.io/tedious/
 # https://github.com/tediousjs/tedious
+#
+# - for SQL Server 2019
+# https://docs.microsoft.com/en-us/sql/connect/node-js/step-1-configure-development-environment-for-node-js-development?view=sql-server-ver15
+#
 # https://docs.microsoft.com/en-us/sql/connect/node-js/node-js-driver-for-sql-server?view=sql-server-2017
 # https://docs.microsoft.com/en-us/sql/connect/node-js/step-1-configure-development-environment-for-node-js-development?view=sql-server-2017
 # https://docs.microsoft.com/en-us/sql/connect/node-js/step-2-create-a-sql-database-for-node-js-development?view=sql-server-2017
