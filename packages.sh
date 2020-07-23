@@ -16,15 +16,21 @@ npm install -g ajv-cli
 
 # npm install -g bower     - deprecated, no longer recommended...
 #
-npm install -g webpack
-npm install -g grunt 
+# npm install -g webpack
+# npm install -g grunt 
+
+
+# OpenAPI Generator  
+# https://openapi-generator.tech/
+# https://github.com/OpenAPITools/openapi-generator
+# 
+npm install @openapitools/openapi-generator-cli -g
 
 
 # Axios
+# <script src="https://unpkg.com/axios/dist/axios.min.js"></scripta>
 #
 npm install -g axios
-# <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-
 
 # Tedious - The tedious module is a javascript implementation of the TDS protocol, which is supported by all modern versions of SQL Server
 #
